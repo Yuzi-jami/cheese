@@ -1,0 +1,7 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(井字棋.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  game.c
+C:\Users\chiyu\source\repos\三子棋\三子棋\game.h(1,9): warning C4068: 未知的杂注“one”
+  (编译源文件“game.c”)
+  
+x64\Debug\game.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+  三子棋.vcxproj -> C:\Users\chiyu\source\repos\三子棋\x64\Debug\三子棋.exe
